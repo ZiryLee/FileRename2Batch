@@ -7,4 +7,4 @@
 
 按指示安装完成后，双击运行：[Ziry批量修改图片名V1.1.jar](https://git.oschina.net/zirylee/FileRename2Batch/attach_files)
 
-![输入图片说明](http://git.oschina.net/uploads/images/2016/1116/205628_59f1afdf_589425.png "在这里输入图片标题")
+![输入图片说明](https://github.com/ZiryLee/FileRename2Batch/blob/master/show.png "在这里输入图片标题")
